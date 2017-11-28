@@ -1,0 +1,2 @@
+# jQuery/CSS3实现仿苹果的CoverFlow图片切换
+一款基于jQuery和CSS3的仿苹果CoverFlow图片切换应用，并且可以自定义添加图片，效果非常不错。
